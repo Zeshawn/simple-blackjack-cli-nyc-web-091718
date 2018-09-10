@@ -5,10 +5,7 @@ end
 
 def deal_card
    # code #deal_card here
-   counter = 0
-   while counter <= 11
-   puts "The card is #{counter}."
-   counter += 1
+  card.rand(1..11)
  end
 end
 
