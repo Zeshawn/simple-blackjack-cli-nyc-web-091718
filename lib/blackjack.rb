@@ -4,7 +4,7 @@ def welcome
 end
 
 def deal_card
-  for # code #deal_card here
+   # code #deal_card here
 end
 
 def display_card_total(card_number)
