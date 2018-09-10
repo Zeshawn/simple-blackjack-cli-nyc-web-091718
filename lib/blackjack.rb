@@ -7,6 +7,7 @@ def deal_card
    # code #deal_card here
    for counter in 1..11 do
      puts "Your card is #{counter}."
+   end
 end
 
 def display_card_total(card_number)
