@@ -1,13 +1,15 @@
 def welcome
   # code #welcome here
+  puts "Welcome to the BlackJack Table"
 end
 
 def deal_card
   # code #deal_card here
 end
 
-def display_card_total
+def display_card_total(card_number)
   # code #display_card_total here
+  
 end
 
 def prompt_user
