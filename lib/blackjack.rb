@@ -5,7 +5,8 @@ end
 
 def deal_card
    # code #deal_card here
-   for counter in 1..11
+   for counter in 1..11 do
+     
 end
 
 def display_card_total(card_number)
