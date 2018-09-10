@@ -5,8 +5,8 @@ end
 
 def deal_card
    # code #deal_card here
-   counter = 11
-   until counter == 11
+   counter = 0
+   while counter <= 11
    puts "The card is #{counter}."
  end
 end
