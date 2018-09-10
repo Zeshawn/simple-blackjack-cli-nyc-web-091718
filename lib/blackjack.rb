@@ -1,6 +1,6 @@
 def welcome
   # code #welcome here
-  expect($stdout).to receive(:puts).with("Welcome to the BlackJack Table")
+  puts "Welcome to the BlackJack Table"
 end
 
 def deal_card
