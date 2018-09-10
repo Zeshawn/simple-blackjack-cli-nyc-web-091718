@@ -8,6 +8,7 @@ def deal_card
    counter = 0
    while counter <= 11
    puts "The card is #{counter}."
+   counter += 1
  end
 end
 
